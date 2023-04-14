@@ -21,7 +21,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@heroicons/react": "^2.0.16",
-    "@popperjs/core": "^2.11.6",
+    "@popperjs/core": "^2.11.7",
     "@types/react-copy-to-clipboard": "^5.0.4",
     "@types/react-icons": "^3.0.0",
     "@types/xregexp": "^4.4.0",
