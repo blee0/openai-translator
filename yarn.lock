@@ -1094,10 +1094,10 @@
     "@typescript-eslint/types" "5.54.0"
     eslint-visitor-keys "^3.3.0"
 
-"@webcomponents/webcomponentsjs@^2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.7.0.tgz#8a87aeaaa0757c95eae0e07dd45f3050d1f8be01"
-  integrity sha512-j161Z9oiy8k74vchdrQGihfSp7QulrTclCUiPo0D7JF6/RjpXAmB0ThlTAFlSElkgqg0vdFgNAXaX9ZHZy25wQ==
+"@webcomponents/webcomponentsjs@^2.8.0":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.8.0.tgz#ab21f027594fa827c1889e8b646da7be27c7908a"
+  integrity sha512-loGD63sacRzOzSJgQnB9ZAhaQGkN7wl2Zuw7tsphI5Isa0irijrRo6EnJii/GgjGefIFO8AIO7UivzRhFaEk9w==
 
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.6"
@@ -4139,17 +4139,17 @@ klona@^2.0.5:
   resolved "https://registry.yarnpkg.com/klona/-/klona-2.0.6.tgz#85bffbf819c03b2f53270412420a4555ef882e22"
   integrity sha512-dhG34DXATL5hSxJbIexCft8FChFXtmskoZYnoPWjXQuebWYCNkVeV3KkGegCK9CP1oswI/vQibS2GY7Em/sJJA==
 
+languagedetect@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/languagedetect/-/languagedetect-2.0.0.tgz#4b8fa2b7593b2a3a02fb1100891041c53238936c"
+  integrity sha512-AZb/liiQ+6ZoTj4f1J0aE6OkzhCo8fyH+tuSaPfSo8YHCWLFJrdSixhtO2TYdIkjcDQNaR4RmGaV2A5FJklDMQ==
+
 lazystream@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/lazystream/-/lazystream-1.0.1.tgz#494c831062f1f9408251ec44db1cba29242a2638"
   integrity sha512-b94GiNHQNy6JNTrt5w6zNyffMrNkXZb3KTkCZJb2V1xaEGCk093vkZ2jk3tpaeP33/OiXC+WvK9AxUebnf5nbw==
   dependencies:
     readable-stream "^2.0.5"
-
-languagedetect@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/languagedetect/-/languagedetect-2.0.0.tgz#4b8fa2b7593b2a3a02fb1100891041c53238936c"
-  integrity sha512-AZb/liiQ+6ZoTj4f1J0aE6OkzhCo8fyH+tuSaPfSo8YHCWLFJrdSixhtO2TYdIkjcDQNaR4RmGaV2A5FJklDMQ==
 
 leven@^3.1.0:
   version "3.1.0"
