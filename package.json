@@ -19,7 +19,7 @@
     "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.13",
+    "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.16",
     "@popperjs/core": "^2.11.6",
     "@types/react-copy-to-clipboard": "^5.0.4",
